@@ -45,7 +45,7 @@ export const itemsNavbar = [
 export const dataAboutPage = [
     {
         id: 1,
-        title: "Back Office Comercial",
+        title: "BACK OFFICE COMERCIAL",
         subtitle: "Jefe de Sala",
         description: "Apoyo en la gestión operativa y comercial de ventas de servicios de telecomunicaciones, principalmente en procesos relacionados con planes móviles, internet, televisión y telefonía fija.",
         date: "Hoy",
